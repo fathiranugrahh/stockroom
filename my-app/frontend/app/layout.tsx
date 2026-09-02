@@ -21,7 +21,7 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Inventory Management",
+  title: "Stockroom",
   description: "Inventory management dashboard",
 };
 

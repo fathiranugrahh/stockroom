@@ -4,7 +4,7 @@ import { MarketingNav } from "@/components/marketing/marketing-nav";
 import { MarketingFooter } from "@/components/marketing/marketing-footer";
 
 export const metadata: Metadata = {
-  title: "Stockroom — inventory control for growing teams",
+  title: "Stockroom",
   description:
     "Track stock, catch low inventory early, and keep a clear history of every change with Stockroom.",
 };
