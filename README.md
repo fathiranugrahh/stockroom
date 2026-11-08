@@ -1,2 +1,0 @@
-# inventory
-for umkm
